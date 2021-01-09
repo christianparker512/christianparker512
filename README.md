@@ -9,5 +9,5 @@ On top of that, I'm exploring Sass.
 💬 Ask me about my family.<br>
 📫 How to reach me: christianparker512@gmail.com<br>
 ⚡ Fun fact: ... I'm a big college football fan! Hook'em Horns!<br>
-(https://github-readme-stats.vercel.app/api?username=christianparker512)
+[![Christian's github stats](https://github-readme-stats.vercel.app/api?username=christianparker512)](https://github.com/anuraghazra/github-readme-stats)
 
