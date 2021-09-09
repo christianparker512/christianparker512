@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-🔭I'm a certified Full Stack Developer in Texas
-🌱 I’m currently learning React.<br>
+🔭Hello. I'm a former educator who decided to pivot career wise during the pandemic. I enrolled and finished a coding bootcamp and am looking for that first unique opportunity to start the next chapter of my professional career.
+🌱 I’m currently learning C#, ASP.Net and am trying to build as many websites in MVC as I can.<br>
 
 
 🤔 I’m looking for help with finding a great place to work.<br>
