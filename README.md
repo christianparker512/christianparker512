@@ -1,5 +1,5 @@
 ### Hi there 👋
-The journey of a 1000 miles begins with the first add ., commit -m and push origin master.
+The journey of a 1000 miles begins with the first git add ., git commit -m and git push origin master.
 
 Don't be afraid to suck at something new, because the more you do it...The easier it becomes. 
 
