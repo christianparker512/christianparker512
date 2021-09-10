@@ -1,11 +1,13 @@
 ### Hi there 👋
+The journey of a 1000 miles begins with the first add ., commit -m and push origin master.
+
+Don't be afraid to suck at something new, because the more you do it...The easier it becomes. 
+
+I'm working on RESTful APIs, SOAP, and some Spring Boot MVC and in my spare time 
+I'm taking a look at C#, ASP.Net and am trying to build as many websites in MVC as I can.<br>
 
 
-🔭Hello. I'm a former educator who decided to pivot careerwise during the pandemic. I enrolled and finished a coding bootcamp and am looking for that first unique opportunity to start the next chapter of my professional career.
-🌱 I’m currently learning C#, ASP.Net and am trying to build as many websites in MVC as I can.<br>
-
-
-🤔 I’m looking for help with finding a great place to work.<br>
+Angular, React and Reactive Native are in my sites. <br>
 
 📫 How to reach me: christianparker512@gmail.com<br>
 
