@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭Hello. I'm a former educator who decided to pivot career wise during the pandemic. I enrolled and finished a coding bootcamp and am looking for that first unique opportunity to start the next chapter of my professional career.
+🔭Hello. I'm a former educator who decided to pivot careerwise during the pandemic. I enrolled and finished a coding bootcamp and am looking for that first unique opportunity to start the next chapter of my professional career.
 🌱 I’m currently learning C#, ASP.Net and am trying to build as many websites in MVC as I can.<br>
 
 
